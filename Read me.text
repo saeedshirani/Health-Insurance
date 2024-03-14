@@ -1,0 +1,16 @@
+Here's the rewritten text:
+
+This report presents a "Business Intelligence (BI)"analysis of insurance data. It utilizes two key folders:
+
+1. Exploratory Data Analysis (EDA) Folder:
+
+* Contains an EDA notebook file which explores the provided insurance data. This notebook likely delves into cleaning, manipulating, and visualizing the data to understand its characteristics and uncover any initial insights.
+
+2. Competitive Analysis Folder:
+
+* Focuses on analyzing data related to a competitor. This folder includes:
+    * A notebook potentially used for specific calculations and comparisons between your company and the competitor.
+    * A PDF report summarizing the competitive analysis findings.
+    * A video presentation summarizing the key points from the PDF report in an engaging format.
+
+3. Insurance user panel:A Power BI panel designed for users seeking to determine the optimal insurance premium based on their risk tolerance.
