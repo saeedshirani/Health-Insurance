@@ -60,7 +60,6 @@ If you want to run the dashboards, make sure to install Power BI Desktop as well
 - **Python**
 - **Data Cleaning**
 - **Exploratory Data Analysis**
-- **RFM Segmentation**
 - **Writing Report**
 - **PowerBI**
 - **Creating Interactive Dashboards**
