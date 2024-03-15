@@ -68,19 +68,15 @@ If you want to run the dashboards, make sure to install Power BI Desktop as well
 
 
 
+![Python](https://i.ibb.co/x1QLmNY/Python-logo-notext-svg.png)
 
-![Python](https://i.ibb.co/hKkx37M/Python-logo-notext-svg.png) 
-
-![Data Cleaning](https://i.ibb.co/br9H5Fp/Data-cleaning-high-resolution-logo-transparent.png)
-
-
-![EDA](https://i.ibb.co/2Yfy55v/Eda-high-resolution-logo-transparent.png)
+![Data Cleaning](https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparent-1.png)
 
 
-![PowerBI](https://i.ibb.co/Tr9pjgB/Powerbi-logo-1.png)
+![EDA](https://i.ibb.co/j8nWCSW/Eda-high-resolution-logo.png)
 
 
-
+![PowerBI](https://i.ibb.co/PrqyqCr/Powerbi-logo-1.png)
 
 
 
